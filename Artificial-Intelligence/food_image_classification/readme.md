@@ -46,7 +46,10 @@ Achieves ~89% validation accuracy.
 
 
 ### Project structure
+```
 ├── food_classification.py      # Main script
 ├── Food Pictures/              # Sample image(s)
 ├── README.md                   # This file
+```
+
 
