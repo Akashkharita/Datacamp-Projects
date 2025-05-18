@@ -32,6 +32,12 @@ Achieves ~89% validation accuracy.
 
 ---
 
+### Sample input
+**Input Image:**  
+`Food Pictures/food_1.png`
+
+![Sample Food Image](Food%20Pictures/food_1.png)
+
 ### 🧪 Sample Output
 
 ```python
