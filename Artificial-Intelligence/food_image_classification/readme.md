@@ -41,6 +41,6 @@ Achieves ~89% validation accuracy.
 ### 🧪 Sample Output
 
 ```python
-[{'label': 'pizza', 'score': 0.874},
- {'label': 'cheeseburger', 'score': 0.064},
- {'label': 'risotto', 'score': 0.023}]
+[{'score': 0.992975115776062, 'label': 'spaghetti_bolognese'}, {'score': 0.0026719518937170506, 'label': 'spaghetti_carbonara'}, {'score': 0.0002339343773201108, 'label': 'ravioli'}, {'score': 0.00018298211216460913, 'label': 'pad_thai'}, {'score': 9.571584814693779e-05, 'label': 'ramen'}]
+
+
