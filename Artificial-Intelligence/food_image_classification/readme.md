@@ -65,10 +65,16 @@ pip install transformers torch pillow matplotlib
 Jupyter Notebook --> notebook.ipynb
 ```
 
-💡 Future Improvements
+### 💡 Future Improvements
 
 - Add drag-and-drop image upload UI with Gradio or Streamlit
 - Fine-tune on Indian food (khichdi deserves better 😄)
 - Deploy as a REST API or integrate into a mobile app
 
 
+
+## 🤝 Let's Connect
+Made with ❤️ by [Akash Kharita]
+
+🔗 ![LinkedIn](https://www.linkedin.com/in/akash-k-609b12361/)
+🐙 ![GitHub](https://github.com/Akashkharita)
