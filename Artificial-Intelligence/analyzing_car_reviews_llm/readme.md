@@ -8,8 +8,9 @@ This project, **Analyzing Car Reviews with LLMs**, is a DataCamp project that ex
 
 - 📝 **Analyze car review texts** to extract actionable insights.
 - 😀 **Classify sentiment** (positive, negative, neutral) from review data.
-- 🧠 **Experiment with LLM-based approaches** for text classification.
-- 💡 Provide recommendations to improve customer experience based on review analysis.
+- 🧠 **Language Translation** (english to espaniol) for non native english speakers
+- 💡 **Question Answer Extractionr** for quick insights
+- 🏳️ **Summarization** Summarizing long reviews for efficiency and quick grasp
 
 ## 🗂️ Project Structure
 
