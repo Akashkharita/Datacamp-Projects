@@ -89,3 +89,10 @@ Contributions are welcome! Please open issues or submit pull requests for improv
 ---
 
 *This project is for educational purposes and demonstrates the use of LLMs for practical NLP tasks in the automotive sector.*
+
+## 🤝 Let's Connect
+Made with ❤️ by [Akash Kharita]
+
+🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/akash-k-609b12361/)
+
+🐙 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Akashkharita)
