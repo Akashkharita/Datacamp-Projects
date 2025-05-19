@@ -17,7 +17,7 @@ This project, **Analyzing Car Reviews with LLMs**, is a DataCamp project that ex
 ```
 analyzing_car_reviews_llm/
     ├── notebook.ipynb      # Main analysis and code
-    ├── [other scripts or data files, if any]
+    ├── data     # stores the images
     └── README.md           # Project documentation
 ```
 
