@@ -53,3 +53,22 @@ Achieves ~89% validation accuracy.
 ```
 
 
+###  ▶️ How to Run
+1. Install the dependencies
+
+```
+pip install transformers torch pillow matplotlib
+```
+
+2. Run the notebook
+```
+Jupyter Notebook --> notebook.ipynb
+```
+
+💡 Future Improvements
+
+- Add drag-and-drop image upload UI with Gradio or Streamlit
+- Fine-tune on Indian food (khichdi deserves better 😄)
+- Deploy as a REST API or integrate into a mobile app
+
+
