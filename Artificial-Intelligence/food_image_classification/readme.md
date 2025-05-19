@@ -76,5 +76,6 @@ Jupyter Notebook --> notebook.ipynb
 ## 🤝 Let's Connect
 Made with ❤️ by [Akash Kharita]
 
-🔗 ![LinkedIn](https://www.linkedin.com/in/akash-k-609b12361/)
+🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/akash-k-609b12361/)
+
 🐙 ![GitHub](https://github.com/Akashkharita)
