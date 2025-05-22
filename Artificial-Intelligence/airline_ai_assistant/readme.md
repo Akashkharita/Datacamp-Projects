@@ -1,3 +1,17 @@
+# ✈️ Fine-Tuning TinyLlama for Airline Chatbots 🤖
+
+## 📋 Project Overview
+
+This project, **Fine-Tuning TinyLlama for Airline Chatbots**, is a hands-on implementation where I trained a compact large language model (LLM) to act as a virtual assistant for an airline. The model learns from thousands of past customer service chats — each labeled with the user's intent and an ideal response — and is fine-tuned to respond intelligently to new travel-related queries.
+
+## 🎯 Objectives
+
+- 💬 **Understand user intent** from chat input (e.g., booking, baggage inquiry, special assistance)
+- ✍️ **Generate human-like responses** based on labeled examples
+- 🤖 **Fine-tune TinyLlama** using LoRA (Low-Rank Adaptation) and Hugging Face's TRL library
+- 🧪 **Evaluate** the model on real-world travel queries
+
+
 
 ## 📦 Dataset
 
