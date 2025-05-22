@@ -1,7 +1,4 @@
-Perfect — here is **everything wrapped in a single Markdown code block**, so you can **copy-paste it directly into your `README.md`** file:
 
-<pre lang="markdown">
-```markdown
 ## 📦 Dataset
 
 The dataset used is the **Bitext Travel LLM Chatbot Training Dataset**.
@@ -125,7 +122,4 @@ Made with ❤️ by **Akash Kharita**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/akash-k-609b12361/)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Akashkharita)
-```
-</pre>
 
-✅ Just copy the entire block above into your Markdown editor or `README.md` file — no formatting will break, and it will render beautifully on GitHub. Let me know if you want me to include a banner or GitHub Pages link too!
